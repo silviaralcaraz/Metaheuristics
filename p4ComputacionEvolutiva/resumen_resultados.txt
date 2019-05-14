@@ -1,0 +1,11 @@
+## RESUMEN DE RESULTADOS P4 ##
+
+A continuación se recogen los resultados de las 1000 ejecuciones del programa con la matriz de distancias dada (tam. soluciones = 10) y sin fichero de aleatorios junto con el cálculo de la distancia media, iteracion media y desviación típica de la distancia proporcionada por dichos datos.
+
+Resultados: la primera fila muestra el fitness de las mejores soluciones y la segunda las respectivas iteraciones donde se encontraron.
+	- Mejores fitness: 2777, 2683, 2402, 2672, 2777, 2402, 2737, 2821, 2402, 2777
+	- Mejores iteraciones: 19, 1, 43, 27, 21, 256, 23, 2, 31, 12
+
+* Distancia media (10 ejecuciones): 2645 km
+* Desviacion estandar distancia: 173
+* Iteracion media de las soluciones: 44

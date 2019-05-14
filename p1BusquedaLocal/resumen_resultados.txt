@@ -1,0 +1,8 @@
+## RESUMEN DE RESULTADOS ##
+
+A continuación se recogen los resultados de las 10 ejecuciones del programa con la matriz de distancias dada y sin fichero de aleatorios junto con el cálculo de la distancia media y la desviación típica proporcionada por dichos datos.
+
+Resultados (km): 5592, 6116, 5460, 5221, 5783, 5715, 6344, 5343, 5285, 5715.
+
+- Distancia media: 5657.4 km
+- Desviación típica: 361 km

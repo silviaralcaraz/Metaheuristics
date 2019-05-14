@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="templeSimulado:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/templeSimulado_jar</output-path>
+    <root id="archive" name="templeSimulado.jar">
+      <element id="module-output" name="templeSimulado" />
+    </root>
+  </artifact>
+</component>
