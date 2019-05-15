@@ -1,12 +1,16 @@
-# Execution #
+# Practice 2: Tabu Search
+
+## Execution
 
 To execute the jar file (located in dist folder):
+		
 		java -jar nombreJar.jar ficheroAleatorios.txt [ficheroDistancias.txt]
 
 Example:
+		
 		java -jar p1BusquedaLocal.jar aleatorios_ls_2016.txt distancias_10.txt > mi_traza.txt
 
-# Files #
+## Files 
 
 In the netbeans folder are the following files:
 
