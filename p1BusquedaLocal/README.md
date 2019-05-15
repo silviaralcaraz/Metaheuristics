@@ -1,14 +1,17 @@
 # Execution #
 
 To execute the jar file (located in dist folder):
+		
 		java -jar nombreJar.jar ficheroAleatorios.txt [ficheroDistancias.txt]
 
 Example:
+		
 		java -jar p1BusquedaLocal.jar aleatorios_ls_2016.txt distancias_10.txt > mi_traza.txt
 
 # Checks #
 
 To check if the results and the trace match:
+		
 		diff mi_traza.txt traza_ls_2016.txt
 
 # Files #
