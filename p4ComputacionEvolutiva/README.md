@@ -8,13 +8,13 @@ To execute .jar file (located in /out/artifacts/p4ComputacionEvolutiva_jar):
 
 Example:
 
-		java -jar p4ComputacionEvolutiva.jar distancias_ce_10_2016.txt aleatorios_ce_10_2016.txt > mi_traza.txt
+	java -jar p4ComputacionEvolutiva.jar distancias_ce_10_2016.txt aleatorios_ce_10_2016.txt > mi_traza.txt
 
 
 *Note: if you don't find JAR file, go to src folder and execute:*
 		
-		javac evolutiva/Evolutiva.java evolutiva/Individuo.java main/Main.java
-		java main.Main ficheroDistancias.txt [ficheroAleatorios.txt] 
+	javac evolutiva/Evolutiva.java evolutiva/Individuo.java main/Main.java
+	java main.Main ficheroDistancias.txt [ficheroAleatorios.txt] 
 
 ## Checks 
 
