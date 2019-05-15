@@ -1,23 +1,26 @@
-# Execution #
+# Practice 4: Evolutionary Computation
+
+## Execution 
 
 To execute .jar file (located in /out/artifacts/p4ComputacionEvolutiva_jar):
-		java -jar nombreJar.jar ficheroDistancias.txt [ficheroAleatorios.txt] 
+
+	java -jar nombreJar.jar ficheroDistancias.txt [ficheroAleatorios.txt] 
 
 Example:
 		java -jar p4ComputacionEvolutiva.jar distancias_ce_10_2016.txt aleatorios_ce_10_2016.txt > mi_traza.txt
 
-----------------------------------------------------------------------------------------
-If you don't find JAR file, go to src folder and execute:
+*Note: if you don't find JAR file, go to src folder and execute:*
+		
 		javac evolutiva/Evolutiva.java evolutiva/Individuo.java main/Main.java
 		java main.Main ficheroDistancias.txt [ficheroAleatorios.txt] 
-----------------------------------------------------------------------------------------
 
-# Checks #
+## Checks 
 
 To check if the results and the trace match:
-		diff mi_traza.txt traza_ce_10_2016.txt
 
-# Files #
+	diff mi_traza.txt traza_ce_10_2016.txt
+
+## Files 
 
 In the Intellij folder are the following files:
 - aleatorios_ce_10_2016.txt -> file with the random data necessary for practice.
